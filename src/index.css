@@ -5,6 +5,10 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  /* background-color: rgb(26, 26, 26); */
+  background-image: url('./project/stars2.jpg');
+  background-position: center;
+  background-size: cover;
 }
 
 code {
